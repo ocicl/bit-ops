@@ -1,0 +1,10 @@
+* bit-ops
+
+Tools for writing optimized bit-vector routines
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/bit-ops.git   |
+| commit  | db91ca7  |
+| systems | bit-ops |
+|---------+-------------------------------------------|
+
